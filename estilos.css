@@ -1,3 +1,8 @@
 .amarillo {
     color: yellow;
 }
+
+table th,
+table td {
+    text-align: center;
+}
